@@ -42,8 +42,8 @@ The Power BI dashboard is designed to communicate the analysis through interacti
 
 **Local Power BI file:** Add the `.pbix` file to `dashboard/` if you want to include it in the repository. Do not publish confidential data or private sharing links.
 
-See [the dashboard build specification](https://github.com/alina-rakhimbaeva-2027/office-solutions-sales-analysis-PowerBI-dashboard/blob/main/dashboard/dashboard-build-spec.md) for the calculated columns, DAX measures, page layout, and publishing checklist.
-
+See [View the Power BI dashboard PDF](office-solutions-business-performance-dashboard.pdf) for the calculated columns, DAX measures, page layout, and publishing checklist.
+ 
 ## Project files
 
 ```text
