@@ -38,14 +38,10 @@ The Power BI dashboard is designed to communicate the analysis through interacti
 - Single-item versus multi-item order performance
 - Recommended growth opportunities
 
-**Dashboard link:** Add your Power BI publish-to-web or shared report link here.
-
-**Local Power BI file:** Add the `.pbix` file to `dashboard/` if you want to include it in the repository. Do not publish confidential data or private sharing links.
-
 ## Dashboard resources
 [View the Power BI dashboard PDF](office-solutions-business-performance-dashboard.pdf).
 
-[View the dashboard build specification](dashboard/dashboard-build-spec.md)
+[View the dashboard build specification](dashboard-build-spec.md)
  
 ## Project files
 
@@ -54,8 +50,7 @@ office-solutions-sales-analysis-PowerBI-dashboard/
 ├── README.md
 ├── TableauSalesData.xlsx
 ├── office-solutions-business-performance-dashboard.pdf
-└── dashboard/
-    └── dashboard-build-spec.md
+└── dashboard-build-spec.md
 ```
 
 ## Analysis workflow
