@@ -39,7 +39,7 @@ The Power BI dashboard is designed to communicate the analysis through interacti
 - Recommended growth opportunities
 
 ## Dashboard resources
-[Power BI dashboard preview](dashboard-preview.png)
+![Power BI dashboard preview](dashboard-preview.png)
 
 [View the Power BI dashboard PDF](office-solutions-business-performance-dashboard.pdf)
 
