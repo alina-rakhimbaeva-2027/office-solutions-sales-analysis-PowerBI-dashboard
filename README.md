@@ -49,13 +49,12 @@ The Power BI dashboard is designed to communicate the analysis through interacti
 ## Project files
 
 ```text
-office-solutions-sales-analysis/
+office-solutions-sales-analysis-PowerBI-dashboard/
 ├── README.md
-├── data/
-│   ├── TableauSalesData.xlsx
-│   └── README.md
+├── TableauSalesData.xlsx
+├── office-solutions-business-performance-dashboard.pdf
 └── dashboard/
-    └── README.md
+    └── dashboard-build-spec.md
 ```
 
 ## Analysis workflow
